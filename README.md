@@ -7,7 +7,7 @@ PhD Candidate
 I’m an experimental atomic physicist with expertise in lasers, optics, and magnetic field design. My GitHub profile features Python scripts and packages developed for advanced scientific research, including data acquisition, Faraday rotation analysis, and instrument automation—demonstrating my ability to build precise and efficient experimental setups.
 
 * 🌍  I'm based in Lexington, Kentucky
-* 🖥️  See my portfolio at [Portfolio-Bruce](http://jhe274.github.io/portfolio-bruce.github.io//)
+* 🖥️  See my portfolio at [Portfolio-BruceHe](http://jhe274.github.io/portfolio-bruce.github.io//)
 * ✉️  You can contact me at [jiachen.he@outlook.com](mailto:jiachen.he@outlook.com)
 * 🧠  I'm learning machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
 * 🤝  I'm open to collaborating on any interesting projects.
