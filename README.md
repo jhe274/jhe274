@@ -9,7 +9,7 @@ I’m an experimental atomic physicist with focuses on open quantum systems, opt
 * 🌍  I'm based in Lexington, Kentucky
 * 🖥️  See my portfolio at [Portfolio-BruceHe](http://jhe274.github.io/portfolio-bruce.github.io//)
 * ✉️  You can contact me at [jiachen.he@outlook.com](mailto:jiachen.he@outlook.com)
-* 🧠  I'm learning machine learning algorithms for real-time magnetic field cancellation, Python package for Gaussmeter and implementing side-band laser locking using EOM.
+* 🧠  I'm learning machine learning algorithms for real-time magnetic field cancellation, quantum optics, optical engineering and quantum computing.
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  He began studying He, then everyone knew it's He...
 
